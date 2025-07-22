@@ -223,7 +223,7 @@ export const CreditTopUp = ({ slug }: { slug: string | undefined }) => {
           />
           <DialogHeader>
             <DialogTitle>Top Up Credits</DialogTitle>
-            <DialogDescription className='space-y-2'>
+            <DialogDescription className="space-y-2">
               <p className="prose text-sm">
                 On successful payment, an invoice will be issued and you'll be granted credits.
                 Credits will be applied to future invoices only and are not refundable. The topped
